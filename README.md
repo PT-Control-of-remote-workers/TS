@@ -7,6 +7,13 @@
 
 ***
 
-## Приложение
+## Материал
 
 - [Аналогичные проекты](./analogs.md)
+
+***
+
+## Ссылки
+
+- [Mindmap](https://miro.com/app/board/o9J_lQieO2s=/)
+- [Trello](https://trello.com/b/6gSedKQ7)
