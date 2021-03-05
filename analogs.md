@@ -1,4 +1,5 @@
 # Аналогичные проекты
 
-- [CROSSOVER](https://www.crossover.com/pages/testimonials)
+- [WORKSMART](https://www.crossover.com/pages/worksmart-productivity-tool)
 - [HUBSTAFF](https://hubstaff.com/)
+- [ACTITIME](https://www.actitime.com/)
