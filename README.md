@@ -9,6 +9,7 @@
 
 ## Материал
 
+- [Базовый функционал](requirements.md)
 - [Аналогичные проекты](./analogs.md)
 
 ***
@@ -17,3 +18,4 @@
 
 - [Mindmap](https://miro.com/app/board/o9J_lQieO2s=/)
 - [Trello](https://trello.com/b/6gSedKQ7)
+- [GitHub](https://github.com/PT-Control-of-remote-workers)
