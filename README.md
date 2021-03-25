@@ -7,11 +7,22 @@
 
 ***
 
-## Материал
+## Документация
 
-- [Базовый функционал](requirements.md)
-- [Аналогичные проекты](./analogs.md)
-- [Пользовательские истории](/stories/)
+> Исходники лежат [здесь](docs/)
+
+- [Техническое задание PDF](docs/ТЗ.pdf)
+- [Курсовая PDF](docs/Курсовая.pdf)
+
+Онлайн документы
+
+- [Техническое задание](https://docs.google.com/document/d/1HYCeeLu7vdozekTmkXsDh87z4pugVQK9pAtquTNHVYQ/edit?usp=sharing)
+- [Курсовая](https://docs.google.com/document/d/1ii1uCJg4B17JzETSvjEdbRSNKvuPe5GSECcUXM6Hu90/edit?usp=sharing)
+
+Остальное
+
+- [Аналоги](analogs.md)
+
 
 ***
 
