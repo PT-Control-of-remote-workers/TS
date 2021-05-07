@@ -24,6 +24,7 @@
 Остальное
 
 - [Аналоги](analogs.md)
+- [Видеоотчёт на 07.05.2021 YouTube](https://www.youtube.com/watch?v=q9ErgnXuwV4)
 
 ***
 
