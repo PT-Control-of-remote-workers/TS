@@ -18,6 +18,7 @@
 
 - [Техническое задание](https://docs.google.com/document/d/1HYCeeLu7vdozekTmkXsDh87z4pugVQK9pAtquTNHVYQ/edit?usp=sharing)
 - [Курсовая](https://docs.google.com/document/d/1ii1uCJg4B17JzETSvjEdbRSNKvuPe5GSECcUXM6Hu90/edit?usp=sharing)
+- [Отчетный документ](https://docs.google.com/document/d/1tLEWxlwYEmBXgr6Ix6NVz4E3mAah9sko4qvXimmltOA/edit?usp=sharing)
 
 Остальное
 
