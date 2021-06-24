@@ -37,3 +37,4 @@
 - [GitHub](https://github.com/PT-Control-of-remote-workers)
 - [Видео отчёт на 07.05.21](https://www.youtube.com/watch?v=q9ErgnXuwV4)
 - [Демо-видео настольного приложения](https://youtu.be/Gs9GkJ2mtZg)
+- [Демо-видео WEB](https://www.youtube.com/watch?v=UbQhcIxuGIs)
